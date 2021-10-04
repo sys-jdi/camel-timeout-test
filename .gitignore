@@ -1,0 +1,16 @@
+# IntelliJ IDEA
+lsp/
+*.iml
+.idea
+
+#VS Code
+**/.classpath
+**/.project
+**/.settings/
+**/.factorypath
+.vscode
+
+# Maven and various tools
+target/
+pom.xml.*
+.flattened-pom.xml
